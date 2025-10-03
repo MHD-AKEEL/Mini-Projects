@@ -72,6 +72,25 @@ section {
 
 .signin {
     background: yellow !important;
-    color: red !important;
+    color: green !important;
     box-shadow: 2px 4px 5px rgba(0, 0, 0, .3);
+}
+
+
+/* About Section */
+#about {
+    background: linear-gradient(to right, #ea1d6f, #eb466b 100%);
+}
+
+#about h1 {
+    font-weight: 800;
+    font-size: 50px;
+    color: white;
+}
+
+#about p {
+    color: white;
+    padding-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
 }
